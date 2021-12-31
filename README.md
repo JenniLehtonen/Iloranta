@@ -1,7 +1,7 @@
 # Iloranta
 
-This is mobile application that was produced in school in a team of four people. The original repository can be found [here](https://github.com/JuliaIkaheimo/Iloranta).
-The project was eight weeks long and it contained meetings with our client, planning, designing, programming and writing documentation. The project was managed with Scrum.
+This is a mobile application that was produced in school in a team of four people for a company called Iloranta Oy ([visit their website](https://iloranta.fi/)). The original repository can be found [here](https://github.com/JuliaIkaheimo/Iloranta).
+The project was eight weeks long and it contained meetings with our client, planning, designing, programming and writing documentation. The project was managed with Scrum. During the eight weeks that we had, we were able to build a very good prototype that has well-working functionalities.
 
 |Table of contents|
 |:------------- |
